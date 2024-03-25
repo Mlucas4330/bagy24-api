@@ -1,0 +1,1 @@
+<h1><strong>Vendas efetuadas no dia: </strong>{{$total_sales}}</h1>
